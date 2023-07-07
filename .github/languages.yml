@@ -1,0 +1,11 @@
+- name: Pyraxis
+  type: programming
+  color: "#FF0000"
+  extensions:
+    - .pyr
+
+- name: Pyraxis header
+  type: programming
+  color: "#FF00FF"
+  extensions:
+    - .pyh

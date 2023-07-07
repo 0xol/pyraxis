@@ -1,0 +1,7 @@
+extern printf(const char* string, ...)
+
+def main(void)->int:
+
+    printf("Hello world")
+
+    return 0
